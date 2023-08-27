@@ -2,7 +2,7 @@
 
 Description:
 
-Our versatile robotic system combines the power of Arduino Uno and ESP8266 microcontrollers to create a highly capable and adaptable robot designed for demanding environments, such as nuclear power plants and chemical factories.
+The versatile robotic system combines the power of Arduino Uno and ESP8266 microcontrollers to create a highly capable and adaptable robot designed for demanding environments, such as nuclear power plants and chemical factories.
 
 Key Features:
 
